@@ -12,11 +12,11 @@
 - Tells the information on how much CO2 emission they avoided
 
 ## How to use
-* Click *Login* to start with a free account
+* Click **Login** to start with a free account
 
 []
 
-* Click *Explore* to start
+* Click **Explore** to start
 
 []
 
