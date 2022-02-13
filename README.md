@@ -38,4 +38,7 @@
 - DenseNet-121 is pre-trained on **ImageNet** to distinguish 1000 classes of objects
 - Dataset is trained using **VGG16 Transfer Learning Technique** of CNN for the classification
 
-Try the Web App : https://scanbage.herokuapp.com/
+## Try the Web App :
+  https://scanbage.herokuapp.com/
+  
+  https://github.com/rishabh1402/scanbage
