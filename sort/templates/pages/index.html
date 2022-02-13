@@ -39,10 +39,11 @@
                     </a>
 
                 </div>
+                {% load custom_tags %}
                 <div class="collapse navbar-collapse">
                     <ul class="nav navbar-nav navbar-right">
                         <li class="active"><a href="index.html">Home</a></li>
-                        <li class=""><a href="{% url 'index' %}">ABOUT</a></li>
+                        <li class=""><a href="{% anchor 'index' 'features' %}">ABOUT</a></li>
                         <!-- <li class=""><a href="blog.html">Blog </a></li> -->
 
                         <li><a href="{% url 'login' %}">LOGIN</a></li>
