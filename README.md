@@ -31,7 +31,7 @@
 
 * Get the result within seconds with atmost accuracy
 
-
+![resultPage](/Screenshots/resultPage.jpeg)
 
 ## How was it built
 - Pre-Trained image detection model **DenseNet-121**
