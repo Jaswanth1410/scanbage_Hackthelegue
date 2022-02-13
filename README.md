@@ -14,23 +14,24 @@
 ## How to use
 * Click **Login** to start with a free account
 
-[]
+![homePageLogin](/Screenshots/homePageLogin.png)
+![loginPage](/Screenshots/loginPage.png)
 
 * Click **Explore** to start
 
-[]
+![homePageExplore](/Screenshots/homePageExplore.PNG)
 
 * **Choose** an image to be uploaded
 
-[]
+![uploadImage](/Screenshots/uploadImage.PNG)
 
 * **Upload** the file
 
-[]
+![uploadedPic](/Screenshots/uploadedPic.PNG)
 
 * Get the result within seconds with atmost accuracy
 
-[]
+![result](/Screenshots/result.jpeg)
 
 ## How was it built
 - Pre-Trained image detection model **DenseNet-121**
