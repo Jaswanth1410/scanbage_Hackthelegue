@@ -41,4 +41,5 @@
 ## Try the Web App :
   https://scanbage.herokuapp.com/
   
+## Model :
   https://github.com/rishabh1402/scanbage
